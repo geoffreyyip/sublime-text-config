@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Cobalt2 Flat Theme",
+		"Color Highlighter",
+		"CSS Format",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"Jinja2",
+		"JsPrettier",
+		"Jump Along Indent",
+		"Monokai - Spacegray",
+		"MoveTab",
+		"Nunjucks Syntax",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Project Planner",
+		"Sass",
+		"Theme - Cobalt2",
+		"Theme - Flatland"
+	]
+}

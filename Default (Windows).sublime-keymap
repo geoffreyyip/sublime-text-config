@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+backspace"], "command": "run_macro_file", "args": {"file": "Packages/User/Delete To End Of Previous Line.sublime-macro"} },
+    { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+    /**
+     * prompt_select_workspace is better known as Quick Open Project,
+     * this keybinding is manually added for Windows configs
+     * [ctrl+alt+p] is disabled by default b/c incompatability
+     */
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"}
+]
