@@ -6,5 +6,14 @@
      * this keybinding is manually added for Windows configs
      * [ctrl+alt+p] is disabled by default b/c incompatability
      */
-    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"}
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+    /**
+     * soft_undo is better known as Undo Selection. It lets me step back
+     * one of my multiple Ctrl + D selections if I go too far.
+     *
+     * this keybinding is enabled by default but gets overriden by Emmet's
+     * key-bindings. I'm explicitly stating it here to ensure correct
+     * behavior
+     */
+    { "keys": ["ctrl+u"], "command": "soft_undo" },
 ]
