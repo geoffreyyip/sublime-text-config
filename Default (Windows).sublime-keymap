@@ -12,8 +12,15 @@
      * one of my multiple Ctrl + D selections if I go too far.
      *
      * this keybinding is enabled by default but gets overriden by Emmet's
-     * key-bindings. I'm explicitly stating it here to ensure correct
+     * key bindings. I'm explicitly stating it here to ensure correct
      * behavior
      */
     { "keys": ["ctrl+u"], "command": "soft_undo" },
+    /**
+     * slurp_find_string is better known as Search Using the Current
+     * Selection, it lets me open a Search box with the current selection.
+     * this keybinding is enabled by default, but gets overriden by Emmet's
+     * key bindings.
+     */
+    { "keys": ["ctrl+e"], "command": "slurp_find_string" },
 ]

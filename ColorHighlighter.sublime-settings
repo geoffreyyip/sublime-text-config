@@ -1,0 +1,5 @@
+{
+  "style": "underlined",
+  // I want this enabled in CSS files only
+  "file_exts": [".css", ".sass", ".scss", ".less"],
+}
