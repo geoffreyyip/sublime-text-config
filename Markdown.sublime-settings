@@ -1,6 +1,9 @@
 {
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-
-  "draw_centered": false,
-  "wrap_width": 0,
+	"draw_centered": false,
+	"extensions":
+	[
+		"markdown"
+	],
+	"wrap_width": 0
 }

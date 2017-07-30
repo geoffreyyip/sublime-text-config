@@ -13,12 +13,15 @@
 		"BracketHighlighter",
 		"Cobalt2 Flat Theme",
 		"Color Highlighter",
+		"Console Wrap",
 		"CSS Format",
 		"DocBlockr",
 		"Emmet",
 		"FindKeyConflicts",
 		"GitGutter",
+		"Gitignore",
 		"Handlebars",
+		"JavaScript & NodeJS Snippets",
 		"Jinja2",
 		"JsPrettier",
 		"Jump Along Indent",
@@ -31,6 +34,7 @@
 		"Package Control",
 		"Project Planner",
 		"Sass",
+		"ScopeHunter",
 		"Theme - Cobalt2",
 		"Theme - Flatland"
 	]
