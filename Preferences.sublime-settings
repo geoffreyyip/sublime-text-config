@@ -13,7 +13,8 @@
 		"*.pdf",
 		"*.swf",
 		"*.jar",
-		"*.zip"
+		"*.zip",
+		".tmp/*"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
@@ -42,7 +43,10 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.hot-update.js",
+		"*.hot-update.json",
+		"*-bundle.js"
 	],
 	"folder_exclude_patterns":
 	[
@@ -55,9 +59,8 @@
 		"venv"
 	],
 	"font_face": "Roboto Mono",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -76,6 +79,7 @@
 	"match_tags": false,
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
+	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
